@@ -1,19 +1,17 @@
 /*
-    Copyright 2021 <Dustin McClure>
-    Project Name: CS140_Java
-    Sub-project: Lab 4
-    File Name: DMGuessingGame.java
+    Copyright 2022 <Dustin McClure>
+    Project Name: CS145_Java
+    Sub-project: Lab 1
+    File Name: Guess.java
     Author: Dustin McClure
     Lab: Guessing Game
-    Modified Date: 05/21/2021
+    Modified Date: 04/12/2022
 
     A program that generates a random number, asks the user to guess what that number is
     between 1 and 100, tells them whether their guess is higher or lower than the correct
     number, and then alerts them when they guess the correct number.
 
     The program then tells them how many guesses it took to get the right answer, and tabulates results.
-
-    NOTE: I did not get the results to tabulate correctly before turning this in
 */
 import java.util.*;
 
