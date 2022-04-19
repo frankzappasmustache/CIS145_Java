@@ -17,4 +17,98 @@ public class Critter {
 
 }
 
-public class
+public class Orca extends Critter {
+    public Action getMove(CritterInfo info) {
+
+   ...
+
+    }
+
+
+
+    public Color getColor() {
+
+   ...
+
+    }
+
+
+
+    public String toString() {
+
+   ...
+
+    }
+}
+
+public class Bear extends Critter {
+    public Action getMove(CritterInfo info) {
+
+   ...
+
+    }
+
+
+
+    public Color getColor() {
+
+   ...
+
+    }
+
+
+
+    public String toString() {
+
+   ...
+
+    }
+}
+
+public class Lion extends Critter {
+    public Action getMove(CritterInfo info) {
+
+   ...
+
+    }
+
+
+
+    public Color getColor() {
+
+   ...
+
+    }
+
+
+
+    public String toString() {
+
+   ...
+
+    }
+}
+
+public class Giant extends Critter {
+    public Action getMove(CritterInfo info) {
+
+   ...
+
+    }
+
+
+
+    public Color getColor() {
+
+   ...
+
+    }
+
+
+
+    public String toString() {
+
+   ...
+
+    }
+}
