@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="529def74-070d-4ac7-ad13-5ce001cc4d70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lab3/cardGame/DeckOfCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/cardGame/DeckOfCardsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="529def74-070d-4ac7-ad13-5ce001cc4d70" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +68,7 @@
       <updated>1650862908393</updated>
       <workItem from="1650862913604" duration="46455000" />
       <workItem from="1651128334132" duration="22000" />
+      <workItem from="1651256838272" duration="71000" />
     </task>
     <servers />
   </component>
