@@ -89,45 +89,6 @@ public class DeckOfCards {
         return p;
     }
 
-    /* public int addCards(String one, String two) {
-
-        String a = one.substring(0,1);
-        String b = two.substring(0,1);
-        int card1 = 0;
-        int card2 = 0;
-        final String ace = "A";
-        final String jack = "J";
-        final String queen = "Q";
-        final String king = "K";
-
-        switch(a) {
-            case ace:
-                card1 = 11;
-                break;
-            case jack, queen, king:
-                card1 = 10;
-                break;
-            case "2", "3", "4", "5", "6", "7", "8", "9", "10":
-                card1 = Integer.parseInt(a);
-                break;
-        }
-
-        switch(b) {
-            case ace:
-                card2 = 11;
-                break;
-            case jack, queen, king:
-                card2 = 10;
-                break;
-            case "2", "3", "4", "5", "6", "7", "8", "9", "10":
-                card2 = Integer.parseInt(b);
-                break;
-        }
-
-        int total = card1 + card2;
-        return total;
-    } */
-
     public int addCards(Stack<String> three) {
         int a = three.size();
         int c = 0;
