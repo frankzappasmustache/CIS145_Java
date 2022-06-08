@@ -7,8 +7,8 @@
     Lab: Letter Inventory
     Modified Date: 05/16/2022
 
-    This test class implements a test of all of the built in functions of the phone book manager. It allows you to select
-    an operation from the menu, complete that operation, and/or exit the program.
+    This defines the letter Inventory class that can be used to keep track of an
+    inventory of letters of the alphabet.
 */
 
 import java.util.*;
