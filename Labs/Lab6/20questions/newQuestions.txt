@@ -1,0 +1,15 @@
+Q: Is it an animal?
+Q: Does your animal hibernate in the winter?
+A: bear
+Q: Does it have antlers?
+A: deer
+A: cat
+Q: Does it go on your feet?
+A: shoe
+Q: Does it have an engine?
+A: car
+Q: Does it have ink?
+A: pen
+Q: Does it run Android?
+A: android phone
+A: computer
