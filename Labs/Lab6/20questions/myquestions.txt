@@ -1,15 +1,15 @@
-Q: Is it an animal?
-Q: Does your animal hibernate in the winter?
-A: bear
+Q: Does it have adhesive?
+A: sticker
+Q: Does it have a cpu?
+Q: Do you use it with a carrier?
+A: Smartphone
+A: computer
 Q: Does it have antlers?
 A: deer
-A: cat
-Q: Does it go on your feet?
-A: shoe
-Q: Does it have an engine?
-A: car
-Q: Does it have ink?
-A: pen
-Q: Does it run Android?
-A: android phone
-A: computer
+Q: Do you sing into it?
+A: microphone
+Q: Does it have a cone and magnet?
+A: speaker
+Q: Is it's mortal enemy a cat?
+A: mouse
+A: guitar
